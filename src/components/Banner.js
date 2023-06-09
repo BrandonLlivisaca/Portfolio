@@ -83,7 +83,24 @@ export const Banner = () => {
                         <img src={logo} alt="headder" className="img_fondo"></img>
                     </Col>
                 </Row>
+                <Row className="acerca">
+                    <Col xs={1} md={1} xl={4}>
+                        <TrackVisibility>
+                        {( { isVisible }) =>
+                            <div className={isVisible ? "animate__animated animate__flash" : ""}>
+                                <h2><span className="wrap">About me</span></h2>
+                                <p class="about_me">My name is Brandon Llivisaca, I'm a Freelance Full Stack Developer based in Cuenca, Ecuador,
+                                    and I'm very passionate and to my work. With 5 year experience as a professional
+                                    full Stack Developer, I have acquired the skills necessary to build great and premium websites.
+                                </p>
+                            </div>
+                        }
+                        </TrackVisibility>
+                    </Col>
+                    
+                </Row>
             </Container>
+                        
         </section>
     )
 }

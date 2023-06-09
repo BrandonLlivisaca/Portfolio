@@ -285,9 +285,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .custom-shape-divider-top-1686290789 svg {
   position: absolute;
   display: block;
-  width: calc(102% + 1px);
+  width: calc(105% + 1px);
   /* width: calc(145% + 1.3px); */
-  height: 300px;
+  height: 250px;
 }
 
 .custom-shape-divider-top-1686290789 .shape-fill {
@@ -405,6 +405,14 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   text-align: center;
 }
 
+/************ Acerca ************/
+.acerca{
+  text-align: center;
+  justify-content: center;
+}
+.about_me{
+}
+
 /************ Skills Css ************/
 .skill {
   padding: 0px 0px 0px 0;
@@ -419,8 +427,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   border-radius: 20%;
   height: 20vh;
   width: 50% !important;
-  background: linear-gradient(35.21deg, rgba(9, 56, 83, 1) -5.91%, rgba(32, 254, 228, 0.9) 111.58%);
-  box-shadow: 5px 5px 5px 2px rgba(32, 254, 228, 0.2);
+  background: linear-gradient(35.21deg, rgba(9, 56, 83, 1) -5.91%, rgba(23, 23, 23, 0.9) 111.58%);
+  box-shadow: 5px 5px 5px 2px rgba(32, 254, 228, 0.1);
   margin-left: 130px;
 }
 .skill h2 {
@@ -447,12 +455,12 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .background-image-left {
  /*  top: 0%; */
   position: absolute;
-  bottom: 0;
+  top: 0;
   width: 100%;
   height: 100%;
   z-index: -4;
   margin-top: 0;
-  background-image: url('./assets/images/photo7.jpg');
+  background-image: url('./assets/images/photo8.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -488,7 +496,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   padding: 0px 0;
   position: relative;
   /*background: linear-gradient(90.21deg, rgba(26, 26, 27, 0.5) -5.91%, #5355551a 111.58%);*/
-  background: linear-gradient(35.21deg, rgba(32, 254, 228, 0.9) -5.91%, rgba(9, 56, 83, 1)  111.58%);
+  /* background: linear-gradient(35.21deg, rgba(32, 254, 228, 0.9) -5.91%, rgba(9, 56, 83, 1)  111.58%); */
+  background-color: #000;
   width: 100%;
   height: 100%;
   /* z-index: -4; */
@@ -879,8 +888,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .custom-shape-divider-top-1684818565 svg {
   position: relative;
   display: block;
-  width: calc(145% + .3px);
-  height: 200px;
+  width: calc(105% + .3px);
+  height: 150px;
+  
 }
 
 .custom-shape-divider-top-1684818565 .shape-fill {
@@ -898,7 +908,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 
 .custom-shape-divider-top-16848185651 svg {
-  height: 200px;
+  height: 150px;
   display: block;
   width: calc(145% + 1.3px);
 }

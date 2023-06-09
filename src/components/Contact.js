@@ -54,7 +54,7 @@ export const Contact = () => {
       <Container>
         <TrackVisibility>
               {({ isVisible }) =>
-              <div className={isVisible ? "animate__animated animate__bounceInDown" : ""}>
+              <div className={isVisible ? "animate__animated animate__bounce" : ""}>
         <Row className="align-items-center">
           <Col size={12} md={6}>
             <img  src={contactImg} alt="Contact Us"/>

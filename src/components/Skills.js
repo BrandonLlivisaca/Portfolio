@@ -4,6 +4,8 @@ import 'react-multi-carousel/lib/styles.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faWindowRestore } from '@fortawesome/free-regular-svg-icons'
 import { faChartPie,faMobile } from '@fortawesome/free-solid-svg-icons'
+import { faPython, faJava, faReact} from '@fortawesome/free-brands-svg-icons'
+
 import 'animate.css';
 import TrackVisibility from "react-on-screen";
 
@@ -84,30 +86,40 @@ export const Skills = () => {
                         <Col xs={10} md={10} xl={10}>
                             <div className="skill-bx">
                                 <h2>
-                                    Web Development
+                                    Python
                                 </h2>
                                 <div className="item">
-                                    <FontAwesomeIcon icon={faWindowRestore} />
+                                    <FontAwesomeIcon icon={faPython} />
                                 </div>
                             </div>
                         </Col>
                         <Col xs={10} md={10} xl={10}>
                             <div className="skill-bx">
                                 <h2>
-                                    Movil App
+                                    Javascript
                                 </h2>
                                 <div className="item">
-                                    <FontAwesomeIcon icon={faMobile} />
+                                    <FontAwesomeIcon icon={faPython} />
                                 </div>
                             </div>
                         </Col>
                         <Col xs={10} md={10} xl={10}>
                             <div className="skill-bx">
                                 <h2>
-                                    Business Intelligence
+                                    Java
                                 </h2>
                                 <div className="item">
-                                    <FontAwesomeIcon icon={faChartPie} />
+                                    <FontAwesomeIcon icon={faJava} />
+                                </div>
+                            </div>
+                        </Col>
+                        <Col xs={10} md={10} xl={10}>
+                            <div className="skill-bx">
+                                <h2>
+                                    React
+                                </h2>
+                                <div className="item">
+                                    <FontAwesomeIcon icon={faReact} />
                                 </div>
                             </div>
                         </Col>
