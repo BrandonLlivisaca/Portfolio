@@ -84,7 +84,7 @@ export const Banner = () => {
                     </Col>
                 </Row>
                 <Row className="acerca">
-                    <Col xs={1} md={1} xl={4}>
+                    <Col xs={12} md={6} xl={4}>
                         <TrackVisibility>
                         {( { isVisible }) =>
                             <div className={isVisible ? "animate__animated animate__flash" : ""}>
