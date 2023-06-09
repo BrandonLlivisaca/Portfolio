@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Web/static/css/main.7fc813a5.css",
-    "main.js": "/Web/static/js/main.2d32ad05.js",
-    "static/js/787.c6006e9a.chunk.js": "/Web/static/js/787.c6006e9a.chunk.js",
-    "static/media/photo6.jpg": "/Web/static/media/photo6.582e94dc4e9867b07ba7.jpg",
-    "static/media/photo9.jpg": "/Web/static/media/photo9.d5b3f2b7e5dfcafef6ee.jpg",
-    "static/media/photo7.jpg": "/Web/static/media/photo7.de9bb8adc428af864748.jpg",
-    "static/media/photo8.jpg": "/Web/static/media/photo8.36e689a5e762448dad22.jpg",
-    "static/media/yoa.png": "/Web/static/media/yoa.d89b11d2bd442462c8ea.png",
-    "static/media/BrandonLlivisaca_CV.pdf": "/Web/static/media/BrandonLlivisaca_CV.e7e82ed16d1df4837515.pdf",
-    "static/media/logo.png": "/Web/static/media/logo.162a15fcad75b05259d0.png",
-    "static/media/logo_fondo.png": "/Web/static/media/logo_fondo.098db707859a189f3d0f.png",
-    "static/media/revicons.eot": "/Web/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/Web/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/Web/static/media/revicons.e8746a624ed098489406.woff",
-    "index.html": "/Web/index.html",
-    "main.7fc813a5.css.map": "/Web/static/css/main.7fc813a5.css.map",
-    "main.2d32ad05.js.map": "/Web/static/js/main.2d32ad05.js.map",
-    "787.c6006e9a.chunk.js.map": "/Web/static/js/787.c6006e9a.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.dfb0f14b.css",
+    "main.js": "/Portfolio/static/js/main.8957d398.js",
+    "static/js/787.c6006e9a.chunk.js": "/Portfolio/static/js/787.c6006e9a.chunk.js",
+    "static/media/photo6.jpg": "/Portfolio/static/media/photo6.582e94dc4e9867b07ba7.jpg",
+    "static/media/photo9.jpg": "/Portfolio/static/media/photo9.d5b3f2b7e5dfcafef6ee.jpg",
+    "static/media/photo7.jpg": "/Portfolio/static/media/photo7.de9bb8adc428af864748.jpg",
+    "static/media/photo8.jpg": "/Portfolio/static/media/photo8.36e689a5e762448dad22.jpg",
+    "static/media/yoa.png": "/Portfolio/static/media/yoa.d89b11d2bd442462c8ea.png",
+    "static/media/BrandonLlivisaca_CV.pdf": "/Portfolio/static/media/BrandonLlivisaca_CV.e7e82ed16d1df4837515.pdf",
+    "static/media/logo.png": "/Portfolio/static/media/logo.162a15fcad75b05259d0.png",
+    "static/media/logo_fondo.png": "/Portfolio/static/media/logo_fondo.098db707859a189f3d0f.png",
+    "static/media/revicons.eot": "/Portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/Portfolio/index.html",
+    "main.dfb0f14b.css.map": "/Portfolio/static/css/main.dfb0f14b.css.map",
+    "main.8957d398.js.map": "/Portfolio/static/js/main.8957d398.js.map",
+    "787.c6006e9a.chunk.js.map": "/Portfolio/static/js/787.c6006e9a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fc813a5.css",
-    "static/js/main.2d32ad05.js"
+    "static/css/main.dfb0f14b.css",
+    "static/js/main.8957d398.js"
   ]
 }
