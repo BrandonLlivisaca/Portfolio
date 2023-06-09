@@ -1,8 +1,7 @@
 import { useState, useEffect } from "react";
 import { Navbar, Container, Nav } from "react-bootstrap"
 import logo from '../assets/images/logo_fondo.png'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faTwitter, faFacebookF, faInstagram, faTiktok } from '@fortawesome/free-brands-svg-icons'
+
 
 export const NavBar = () => {
     const [ activeLink, setActiveLink ] = useState('home');

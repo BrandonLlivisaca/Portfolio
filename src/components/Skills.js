@@ -4,8 +4,6 @@ import 'react-multi-carousel/lib/styles.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faWindowRestore } from '@fortawesome/free-regular-svg-icons'
 import { faChartPie,faMobile } from '@fortawesome/free-solid-svg-icons'
-import fondo1 from "../assets/images/photo8.jpg"
-import fondo2 from "../assets/images/photo9.jpg"
 import 'animate.css';
 import TrackVisibility from "react-on-screen";
 

@@ -69,10 +69,9 @@ export const Banner = () => {
                                 <span className="navbar-text">
                                 <div className="social-icon">
                                     <FontAwesomeIcon icon="check-square" />
-                                    <a href="#"><FontAwesomeIcon icon={faFacebookF} /></a>
-                                    <a href="#"><FontAwesomeIcon icon={faInstagram} /></a>
-                                    <a href="#"><FontAwesomeIcon icon={faTiktok} /></a>
-                                    <a href="#"><FontAwesomeIcon icon={faTwitter} /></a>
+                                    <a href="https://www.facebook.com/brando.llivisaca/"><FontAwesomeIcon icon={faFacebookF} /> </a>
+                                    <a href="https://instagram.com/brando.llivisaca?igshid=ZDc4ODBmNjlmNQ=="><FontAwesomeIcon icon={faInstagram} /></a>
+                                    <a href="https://twitter.com/BrandonL1398?t=Lalr-YOnUgAX20fVO2wkww&s=09"><FontAwesomeIcon icon={faTwitter} /></a>
                                 </div>
                                 </span>
 
